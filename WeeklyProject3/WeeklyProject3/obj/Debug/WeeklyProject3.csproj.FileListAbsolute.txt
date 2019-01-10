@@ -1,0 +1,7 @@
+C:\Users\petro\OneDrive\Desktop\C#\WeeklyProject3\WeeklyProject3\bin\Debug\WeeklyProject3.exe.config
+C:\Users\petro\OneDrive\Desktop\C#\WeeklyProject3\WeeklyProject3\bin\Debug\WeeklyProject3.exe
+C:\Users\petro\OneDrive\Desktop\C#\WeeklyProject3\WeeklyProject3\bin\Debug\WeeklyProject3.pdb
+C:\Users\petro\OneDrive\Desktop\C#\WeeklyProject3\WeeklyProject3\obj\Debug\WeeklyProject3.csprojAssemblyReference.cache
+C:\Users\petro\OneDrive\Desktop\C#\WeeklyProject3\WeeklyProject3\obj\Debug\WeeklyProject3.csproj.CoreCompileInputs.cache
+C:\Users\petro\OneDrive\Desktop\C#\WeeklyProject3\WeeklyProject3\obj\Debug\WeeklyProject3.exe
+C:\Users\petro\OneDrive\Desktop\C#\WeeklyProject3\WeeklyProject3\obj\Debug\WeeklyProject3.pdb
